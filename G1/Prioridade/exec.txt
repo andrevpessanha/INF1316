@@ -1,0 +1,4 @@
+Run <programa3> PR=<7>
+Run <programa1> PR=<2>
+Run <programa4> PR=<5>
+Run <programa5> PR=<3>

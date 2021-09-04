@@ -1,0 +1,5 @@
+Run <programa1> I=<4> D=<5>
+Run <programa2> I=<3> D=<2>
+Run <programa3> I=<40> D=<6>
+Run <programa5> I=<programa2> D=<5>
+Run <programa4> I=<programa3> D=<4>
